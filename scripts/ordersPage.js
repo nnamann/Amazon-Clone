@@ -30,7 +30,7 @@ function renderOrdersPage(){
       </div>
     `;  //the order header was added
 
-    HTML+= `<div class="order-details-grid">`; //the order-details-grid container is added
+    HTML+= `<div class="order-details-grid">`; 
     order.products.forEach((product)=>{
       //individual product html is added
       
@@ -68,7 +68,7 @@ function renderOrdersPage(){
     });
     HTML+=
       ` </div>
-      </div>`; // closing tags for the order-grid-details then order-container
+      </div>`; 
 
   });
 

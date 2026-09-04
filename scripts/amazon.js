@@ -1,7 +1,6 @@
 import {cart, addToCart, updateCartQuantity} from '../data/cart.js';
 import {products} from '../data/products.js';
 import { loadPage } from './load.js';
-import { formatPrice } from './utils/money.js';
 
 await loadPage();
 
@@ -88,7 +87,6 @@ function generateProductHTML(product){
 }
 
 function displayAddedMessage(productId){
-  //Displaying the added message
   const addedMessage= document.querySelector(`.added-to-cart-${productId}`);
   
   addedMessage.classList.add('added-visible');

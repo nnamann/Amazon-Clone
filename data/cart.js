@@ -18,11 +18,10 @@ export function updateCartQuantity(){
 
 export function addToCart(productId, quantity=1){
   let matchingItem;
-  //const cartAdditionValue= Number(document.querySelector(`.js-quantity-selector-${productId}`).value)||1;
 
   cart.forEach((cartItem)=>{
     if(productId===cartItem.productId)
-        matchingItem=cartItem;   //the object refernce is copied
+        matchingItem=cartItem;  
   })
   if(matchingItem)
     matchingItem.quantity+= quantity;
