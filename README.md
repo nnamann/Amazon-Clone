@@ -136,3 +136,8 @@ GitHub: [@nnamann](https://github.com/nnamann)
 ---
 
 If you found this project useful or interesting, consider giving the repository a star!
+
+<img width="1470" height="832" alt="Screenshot 2026-09-09 at 12 58 18 PM" src="https://github.com/user-attachments/assets/08bbf591-c37b-4d9e-ab6d-55349898205d" />
+
+
+<img width="1470" height="336" alt="Screenshot 2026-09-09 at 12 59 38 PM" src="https://github.com/user-attachments/assets/453b7de8-3dbc-43be-9d36-c6b8f9bdb840" />
