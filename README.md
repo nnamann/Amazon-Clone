@@ -97,7 +97,7 @@ cd Amazon-Clone
 
 This project runs on plain HTML, CSS, and JavaScript, so it can be opened directly in a browser.
 
-For the best development experience, open `amazon.html` in **VS Code with the Live Server extension**.
+For the best development experience, open `index.html` in **VS Code with the Live Server extension**.
 
 ---
 
