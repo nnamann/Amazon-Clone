@@ -102,9 +102,9 @@ function renderSearchResults(){
   const search= document.querySelector('.js-search-bar').value.toLowerCase();
 
   if(search)
-    window.location.href = `amazon.html?search=${encodeURIComponent(search)}`;
+    window.location.href = `index.html?search=${encodeURIComponent(search)}`;
   else
-    window.location.href = `amazon.html`;
+    window.location.href = `index.html`;
 }
 
 await loadPage();
