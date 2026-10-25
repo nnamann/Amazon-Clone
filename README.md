@@ -69,7 +69,7 @@ This project recreates the core shopping experience of Amazon, including product
 ```text
 Amazon-Clone/
 │
-├── amazon.html          # Main Amazon storefront
+├── index.html          # Main Amazon storefront
 ├── checkout.html        # Checkout page
 ├── orders.html          # Order history
 ├── tracking.html        # Package tracking
